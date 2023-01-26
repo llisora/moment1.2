@@ -1,0 +1,43 @@
+@page "/convert"
+
+<h2>Konvertering</h2>
+
+<h3>Konvertera meter till fot</h3>
+<label for="meter">Meter:</label>
+<input type="number" @bind="meter">
+<button @onclick="CalculateMeter">Konvertera</button>
+
+<br/>
+<h3>Meter i fot: @result1 fot</h3>
+
+@code {
+    private double result1;
+    private double feet;
+    private double meter = 10;
+
+    private void CalculateMeter()
+    {
+        feet = 3.2808399 * (int)(meter);
+        result1 = Math.Round(feet, 2);
+    }
+}
+
+<h3>Konvertera km/h till miles/hour</h3>
+<label for="kmh">Km/h:</label>
+<input type="number" @bind="kmh">
+<button @onclick="CalculateMiles">Konvertera</button>
+
+<br/>
+<h3>Km/h är : @result2 miles/hour</h3>
+
+@code {
+    private double miles;
+    private double result2;
+    private double kmh = 10;
+
+    private void CalculateMiles()
+    {
+        miles = 0.6213711922 * (int)(kmh);
+        result2 = Math.Round(miles);
+    }
+}

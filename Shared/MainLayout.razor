@@ -1,0 +1,26 @@
+﻿@inherits LayoutComponentBase
+
+ <header>
+        <div class="header">
+            <img src="./logo.png" alt="Start" width="170" height="100">
+            <div class="date">
+                @{
+                    var date = DateTime.Now.ToShortDateString();
+                }
+                <p>Dagens datum är @date </p>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="left">
+            <NavMenu />
+        </div>
+        <div class="right">
+            @Body
+        </div>
+    </main>
+
+    <footer>
+        Av Lisa Bäcklin - Kontakta mig via e-post: liba2103@student.miun.se
+    </footer>
