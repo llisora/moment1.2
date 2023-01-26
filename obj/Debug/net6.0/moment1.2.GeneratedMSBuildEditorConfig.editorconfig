@@ -1,0 +1,51 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = moment1.2
+build_property.RootNamespace = moment1.2
+build_property.ProjectDir = /Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/Pages/Convert.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udmVydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/Pages/Json.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSnNvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/Shared/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/lisabacklin/Desktop/skola2/NET/moment1.2/moment1.2/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
